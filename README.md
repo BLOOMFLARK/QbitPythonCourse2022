@@ -1,0 +1,1 @@
+# QbitPythonCourse2022
